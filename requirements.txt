@@ -1,0 +1,12 @@
+# R6 Locker Checker - Dependencies
+# ================================
+# Python 3.8+ required
+
+# Nodriver - undetected browser automation (CloudFlare bypass)
+nodriver>=0.32
+
+# HTTP requests for webhooks
+requests>=2.31.0
+
+# KeyAuth - License key authentication
+keyauth
